@@ -3,6 +3,11 @@ body::before{
     content: '';
     height: 60px;
 }
+iframe{
+    display: flex;
+    width: 90%;
+}
+
 
 @media  (min-width: 768px){
     .news-input{
